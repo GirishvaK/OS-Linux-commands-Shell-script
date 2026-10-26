@@ -122,6 +122,7 @@ grep Hello newfile
 <img width="465" height="132" alt="Screenshot 2026-07-28 141623" src="https://github.com/user-attachments/assets/428ef3d3-06a8-4523-80d0-282f23dcb98e" />
 
 
+
 grep hello newfile 
 ## OUTPUT
 
